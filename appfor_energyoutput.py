@@ -6,7 +6,7 @@ import numpy as np
 
 
 
-model=pickle.load(open('C:/Users/SARKAR/energyprediction/rf.pkl','rb'))
+model=pickle.load(open('rf.pkl','rb'))
 
 print(model)
 
